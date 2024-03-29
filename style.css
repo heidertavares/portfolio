@@ -1,0 +1,105 @@
+
+*{
+    margin-top: 0%;
+  }
+  
+  .navbar{
+    font-size: x-large;
+    padding-top: 1%;
+   
+  }
+
+/* TEXTOS DO MENU*/
+  a{
+
+  text-decoration: none;
+  color: black;
+  
+  }
+/* FORMATAÇAO DE TITULOS E TEXTOS DA PAGINA*/
+  h2{
+    background-color: red;
+    position: absolute; 
+    margin-left: 100px;
+  }
+
+  .formação{
+    position: absolute;
+    margin-top: 500px;
+    
+  }
+
+  .portfólio{
+    position: absolute;
+    margin-top: 850px;
+  }
+
+  .contato{
+    position: absolute;
+    margin-top: 850px;
+    margin-left: 875px;
+  }
+  
+  .texto2{
+    position: absolute;
+    margin-top: 580px; 
+    margin-left: 100px;
+    text-align: justify; 
+    width: 550px; 
+    font-size: x-large;">
+  }
+  /* FORMATAÇAO LINKS */
+  .site1{
+    position: absolute;
+    margin-top: 1050px;
+    margin-left: 100px;
+    
+  }
+  .site2{
+    position: absolute;
+    margin-top: 1100px;
+    margin-left: 100px;
+    
+  }
+
+
+/* INICIO FORMATAÇÃO DE MENU*/
+  .title{
+    position: absolute;
+    margin-left: 100px;
+    text-align: justify;
+  }
+
+  .titleformação{
+    position: absolute;
+    margin-left: 450px;
+    text-align: justify;
+  }
+  .titleportfólio{
+    position: absolute;
+    margin-left: 800px;
+    text-align: justify;
+  }
+  .titlecontato{
+    position: absolute;
+    margin-left: 1150px;
+    text-align: justify;
+  }
+
+  img{
+    margin-right: 0px;
+  }
+
+/* FORMATAÇÃO DE FORMULARIO*/
+  form{
+    position: absolute;
+    margin-left: 770px;
+    
+    margin-top: 930px;
+  }
+/* FORMATAÇÃO DE RODAPÉ*/
+  footer{
+    position: relative;
+    margin-top: 1400px;
+    background-color: black;
+  }  
